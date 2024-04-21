@@ -1,0 +1,1 @@
+This folder contains various codes related to Artificial Neural Networks. Note that these do not include codes related to CNNs, LSTMs and other deep learning architectures etc. For those codes, go to the Deep Learning folder.
